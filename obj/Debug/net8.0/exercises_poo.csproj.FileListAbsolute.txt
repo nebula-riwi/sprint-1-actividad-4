@@ -1,0 +1,14 @@
+/home/gengar/Documents/exercises_poo/bin/Debug/net8.0/exercises_poo
+/home/gengar/Documents/exercises_poo/bin/Debug/net8.0/exercises_poo.deps.json
+/home/gengar/Documents/exercises_poo/bin/Debug/net8.0/exercises_poo.runtimeconfig.json
+/home/gengar/Documents/exercises_poo/bin/Debug/net8.0/exercises_poo.dll
+/home/gengar/Documents/exercises_poo/bin/Debug/net8.0/exercises_poo.pdb
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/exercises_poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/exercises_poo.AssemblyInfoInputs.cache
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/exercises_poo.AssemblyInfo.cs
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/exercises_poo.csproj.CoreCompileInputs.cache
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/exercises_poo.dll
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/refint/exercises_poo.dll
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/exercises_poo.pdb
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/exercises_poo.genruntimeconfig.cache
+/home/gengar/Documents/exercises_poo/obj/Debug/net8.0/ref/exercises_poo.dll
